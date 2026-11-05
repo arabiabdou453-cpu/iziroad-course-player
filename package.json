@@ -1,0 +1,12 @@
+{
+  "name": "iziroad-course-player",
+  "version": "1.0.0",
+  "description": "Pixel-perfect clone of IZIROAD LMS Course Player & Overview UI (Web design with WordPress 2026)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": ["lms", "course-player", "iziroad", "wordpress-course", "elearning"],
+  "author": "Arabi Abderrahmane",
+  "license": "MIT"
+}
